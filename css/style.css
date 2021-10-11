@@ -1,0 +1,35 @@
+*{
+    background-color: floralwhite;
+}
+
+h2[title="red"]{
+    text-align: center;
+    color: red;
+}
+h4[title="green"]{
+    text-align: left;
+    color: green;
+}
+.body{
+    color: black;
+    line-height: 20px;
+    text-indent: 2em;
+}
+
+img{
+    border: 5px;
+    border-style:double;
+    float: right;
+    margin: 20px;
+}
+
+.centent_main{
+    float: left;
+    padding: 20px 0 10px 20px;
+}
+
+.box_details{
+    padding: 10px 0 10px 0;
+    margin: 10px 20px 10px 20px;
+    clear: both;
+}
