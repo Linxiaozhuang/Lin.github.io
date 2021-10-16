@@ -80,6 +80,7 @@ hr
     line-height:80px;
     padding-bottom:5px;
 }
+
 /*SLIDER STYLES*/
 #carousel-slider {
     color:#4fa7ff; 
@@ -126,6 +127,34 @@ hr
           background-color:rgba(0, 0, 0,  0.42);
     }
 
+    /* =============================================================
+   HOME STYLES
+ ============================================================ */
+#about {
+    text-align:center;
+    padding-bottom:50px;
+}
+#about i {
+    margin:5px;
+}
+#about p {
+    text-transform:uppercase;
+    padding-top:120px;
+    font-size:30px; --
+    font-weight:400;
+    color:#775ac2;
+    line-height:80px;
+    padding-bottom:5px;
+}
+/* =============================================================
+   CONTACT STYLES
+ ============================================================ */
+ #contact  .form-control{
+    background-color:transparent;
+    }
+    #contact label {
+        padding:15px;
+    }
   /* =============================================================
    FOOTER STYLES
  ============================================================ */
