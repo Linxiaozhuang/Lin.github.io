@@ -52,7 +52,7 @@ hr
 }
 
 .navbar-inverse .navbar-brand {
-    color: #FFF;
+    color: rgba(10, 127, 223, 0.89);
 }
 .copyrights{
 	text-indent:-9999px;
@@ -119,28 +119,19 @@ hr
     background-color:transparent;
     border:2px solid rgba(0, 231, 222, 0.72);
     margin:5px;
-    color:#fff;
+    color:rgb(18, 168, 238);
 }
     .custom-btn-1:hover {
-         color:#fff;
+         color:rgb(10, 181, 248);
           background-color:rgba(0, 0, 0,  0.42);
     }
 
-/* =============================================================
-   CONTACT STYLES
- ============================================================ */
-  #contact  .form-control{
-    background-color:transparent;
-}
-#contact label {
-    padding:15px;
-}
   /* =============================================================
    FOOTER STYLES
  ============================================================ */
 .footer {
     text-align:right;
-    color:#fff;
+    color:rgb(252, 174, 174);
     background-color:rgb(27, 106, 131);
     padding:20px;
 }
