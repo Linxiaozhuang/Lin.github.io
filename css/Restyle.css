@@ -137,10 +137,16 @@ hr
 #about i {
     margin:5px;
 }
+#about h2{
+    color: cornflowerblue;
+}
+#about h3{
+    color: cornflowerblue;
+}
 #about p {
     text-transform:uppercase;
     padding-top:120px;
-    font-size:30px; 
+    font-size: 15px; 
     font-weight:400;
     color:#775ac2;
     line-height:80px;
