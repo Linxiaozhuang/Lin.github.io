@@ -81,7 +81,6 @@ hr
     padding-bottom:5px;
 }
 
-/*SLIDER STYLES*/
 #carousel-slider {
     color:#4fa7ff; 
     min-height:420px;
@@ -127,15 +126,7 @@ hr
           background-color:rgba(0, 0, 0,  0.42);
     }
 
-/* =============================================================
-   CONTACT STYLES
- ============================================================ */
- #contact  .form-control{
-    background-color:transparent;
-    }
-    #contact label {
-        padding:15px;
-    }
+
   /* =============================================================
    FOOTER STYLES
  ============================================================ */
