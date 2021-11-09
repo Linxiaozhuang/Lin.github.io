@@ -1,0 +1,42 @@
+/* ----------------------sy3-6------------------------ */
+table.style{
+    border: lightgreen 1px solid;
+    background-color: #fff;
+    padding: 20px;
+    margin: auto;
+}
+td img{
+    width: 200px;
+    height: 150px;
+    border: none;
+    margin: auto;
+}
+.style a,p,span{
+
+  font-size: 14px; 
+  text-decoration-line: none;
+  color: black;
+
+}
+td{
+    text-align: center; 
+    margin: auto;
+}
+.style a:visited{
+    /* 看到的情况 */
+    text-decoration-line: none;
+}
+.style a:hover{     
+    /* 鼠标悬浮设置 */
+    color: rgb(53, 159, 245);   
+    font-weight: bold;
+    text-decoration-line: none;
+}
+p{
+    color: #ccc;
+    font-size: 14px;
+}
+span{
+    color: #27d4e7;
+    font-weight: bold;
+}

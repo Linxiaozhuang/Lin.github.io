@@ -1,0 +1,66 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 14px;
+    color:blue;
+    text-decoration: underline;
+}
+.myContent{
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid#e752e3;
+}
+
+h1,h2,h3{
+    color: burlywood;
+}
+h2.special,#one{
+    text-decoration: underline;
+    color: red;
+}
+
+p span{
+    color: red;    /* p嵌套内的span的变化--后代选择符、、
+    
+    */
+}
+span{
+    color: royalblue;
+}
+
+h1[class]{
+    color: saddlebrown;
+}
+img[alt]{
+    border: none;
+}
+a[href][title]{
+    font-weight: bold;
+}
+
+a:hover{
+    background-color: salmon;
+    border: 1px solid#f026;
+    font-size: 24px;
+}
+
+h4:first-letter{
+    color: salmon;
+    font-size: 36px;
+}
+P:first-line{
+    color: seagreen;
+}
+h5:before{
+    font-size: 20px;
+    color: springgreen;
+    content: "using the before";
+}
+h5:after{
+    font-size: 20px;
+    color: steelblue;
+    content: "using the after";
+}
+
