@@ -1,0 +1,63 @@
+﻿body{
+    font-family:'Times New Roman', Times, serif;
+    color: #fff;
+    text-align: center;
+    background:#1c0d1a ;
+    animation: bg-color 15s infinite;
+    -webkit-animation: bg-color 15s infinite;
+
+}
+@-webkit-keyframes bg-color {
+    0% { background-color: #1c0d1a; }   
+    20% { background-color: #9e0958; }   
+    40% { background-color: #f1939c; }   
+    60% { background-color: #f07c82; }   
+    80% { background-color: #f1939c; }
+    100% { background-color: #1c0d1a }   
+    }
+    
+    @keyframes bg-color {
+        0% { background-color: #1c0d1a; }   
+        20% { background-color: #9e0958; }   
+        40% { background-color: #f1939c; }   
+        60% { background-color: #f07c82; }   
+        80% { background-color: #f1939c; }
+        100% { background-color: #1c0d1a } 
+    }
+.content{
+    height: 900px;
+    width: 400px;
+    display: block;
+    display: inline-block;
+    float: left;
+    margin-left: 300px;
+}
+#content_main{
+    font-size: 50px;
+    height: 100px;
+}
+#content_item{
+    font-size: 40px;
+    height: 100px;
+}
+#content_detail{
+    font-size: 24px;
+}
+img{
+
+    margin-right: 100px;
+    margin-top: 80px;
+    display: inline-block;
+    height: 500px;
+    width: 400px;
+}
+
+#button{
+    margin: auto;
+    display: block;
+}
+#button a{
+    background: linear-gradient(to right, rgba(4, 252, 252, 0.432), rgb(0, 238, 255)); 
+    text-decoration: none;
+    font-size: 30px;
+}
