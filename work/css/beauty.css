@@ -830,4 +830,13 @@
     width: 0;
   }
 
+  button{
+    position: fixed;
+    width: 150px;
+    height: 100px;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 200px;
+  }
+
   
