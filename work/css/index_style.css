@@ -163,3 +163,8 @@ a img{
 svg{
     margin-top: 500px;
  }
+
+ audio{
+    margin-top: 400px;
+    position: fixed;
+}
